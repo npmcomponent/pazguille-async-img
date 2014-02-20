@@ -1,0 +1,12 @@
+{
+  "name": "pazguille-async-img",
+  "description": "Asynchronous Image Loader.",
+  "version": "0.0.2",
+  "keywords": [
+    "images",
+    "async",
+    "lazy"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
